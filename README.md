@@ -1,2 +1,2 @@
 # Hello-World
-Hello every one I;m Ala
+Hello everyone I;m Ala
